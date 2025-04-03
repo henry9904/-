@@ -68,4 +68,4 @@
 - `5-1猫項懸鈴.pdf`: 원문 PDF 파일
 - `README.md`: 본 설명 파일
 
-## ⬅️ [메인 페이지로 돌아가기](./-/README.md)
+## ⬅️ [메인 페이지로 돌아가기](./Basic_Hanmun/README.md)
